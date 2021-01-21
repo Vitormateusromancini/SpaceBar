@@ -12,5 +12,7 @@ Funcionalidades:
 
 Etapas de criação e distribuição de tarefas:
 
+Usar o Aseprite e Pixel FX para fazer os gráficos e animações 
+
 -
 
